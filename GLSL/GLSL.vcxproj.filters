@@ -21,5 +21,19 @@
     <ClCompile Include="C:\Users\dell\Desktop\CG\src\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="shaderClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shaderClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
