@@ -1,2 +1,3 @@
-﻿  main.cpp
+﻿  main_1.cpp
+F:\Visual Studio\CG\GLSL\main_1.cpp(225,25): warning C4101: “EBO”: 未引用的局部变量
   GLSL.vcxproj -> F:\Visual Studio\CG\project\Debug\GLSL.exe
